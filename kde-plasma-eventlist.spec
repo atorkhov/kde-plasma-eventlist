@@ -2,7 +2,7 @@
 
 Name:           kde-plasma-eventlist
 Version:        0.5.95
-Release:        1%{?dist}.R
+Release:        1%{?dist}
 Summary:        Eventlist Plasmoid
 
 Group:          User Interface/Desktops
